@@ -25,3 +25,4 @@ For a TTM simulation, eight files are required:
 - lmp_mpi_Oct2020
 - thermo_end.0.110000
 - thermo_end.base.110000
+* These thermo_end files are outputs/restart files from the thermalisation simulations
